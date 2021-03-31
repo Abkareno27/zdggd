@@ -1,0 +1,27 @@
+body{background: url("hi.jpg") repeat-y scroll;
+    background-size: contain;
+
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+    font-family: cursive;
+
+} 
+img{
+    width: 70%;
+    margin: 10px 0px;
+    vertical-align: middle;
+}
+.im{
+    text-align: center;
+}
+.im p{color: cornsilk;text-align: center;
+
+}
+.ime p{color: cornsilk; text-align: center;
+
+}
+.ime{
+    text-align: center;
+}
